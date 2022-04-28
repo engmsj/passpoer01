@@ -1,0 +1,16 @@
+@media(max-width:576px){
+    .histoty-row{
+        width: 100%;
+        margin: 20px auto;
+        background-color: #fff;
+        padding: 20px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        border-radius: 12px;
+    }
+    header{
+        display: block !important;
+    }
+}
